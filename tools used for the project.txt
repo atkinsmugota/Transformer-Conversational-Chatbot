@@ -1,0 +1,5 @@
+TensorFlow 2.9.1
+TensorFlow Datasets
+google collabo, streamlite
+
+I used the conversations in movies and TV shows provided by Cornell Movie-Dialogs Corpus, 
