@@ -1,8 +1,5 @@
 
 
-### Packages
-- TensorFlow 2.9.1
-- [TensorFlow Datasets](https://www.tensorflow.org/datasets)
 
 ### Setup
 - create new anaconda environment and initialize environment `chatbot`
