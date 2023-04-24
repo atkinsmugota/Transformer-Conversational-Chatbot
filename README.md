@@ -1,14 +1,4 @@
-## Transformer Chatbot with TensorFlow 2
-Build an end-to-end chatbot with [Transformer](https://arxiv.org/abs/1706.03762) in TensorFlow 2.
-Checkout my tutorial on [blog.tensorflow.org](https://blog.tensorflow.org/2019/05/transformer-chatbot-tutorial-with-tensorflow-2.html).
 
-### Updates
-- 16 June 2022:
-  - Update `setup.sh` script to install Apple Silicon version of TensorFlow 2.9 (only use this if you're feeling adventurous).
-  - Updated the two custom layers, `PositionalEncoding` and `MultiHeadAttentionLayer`, to allow model saving via `model.save()` or `tf.keras.models.save_model()`.
-  - `train.py` showcase how to call `model.save()` and `tf.keras.models.load_model()`.
-- 8 Dec 2020: Updated support to TensorFlow 2.3.1 and TensorFlow Datasets 4.1.0
-- 18 Jan 2020: Added [notebook](tf2_tpu_transformer_chatbot.ipynb) with  Google Colab TPU support in TensorFlow 2.1.
 
 ### Packages
 - TensorFlow 2.9.1
