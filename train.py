@@ -1,4 +1,4 @@
-!pip install tensorflow==2.9.1 tensorflow_datasets==4.6.0
+
 import argparse
 import tensorflow as tf
 
